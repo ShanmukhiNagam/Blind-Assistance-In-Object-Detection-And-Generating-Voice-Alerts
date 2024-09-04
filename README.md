@@ -1,0 +1,2 @@
+# Blind-Assistance-In-Object-Detection-And-Generating-Voice-Alerts
+This innovative system uses advanced computer vision techniques to detect objects in real-time. When an object is identified, the system generates clear voice alerts, providing essential information to visually impaired individuals. This technology empowers users to navigate their surroundings with greater independence and confidence. 
